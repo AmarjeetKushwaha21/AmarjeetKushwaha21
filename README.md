@@ -1,4 +1,4 @@
-````markdown
+
 <!--
 ╔══════════════════════════════════════════════════════════════════╗
 ║ AMARJEET KUSHWAHA • PREMIUM GITHUB PROFILE                     ║
@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ======================== HEADER ======================== -->
+<!-- ======================== HERO ======================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=AMARJEET%20KUSHWAHA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20DSA%20WITH%20C%2B%2B%20%E2%80%A2%20AI%20ENTHUSIAST&descSize=16&descAlignY=58&descColor=8BE9FD&color=0:080B18,25:1B1035,50:4C1D95,75:7C3AED,100:06B6D4" width="100%"/>
 
@@ -43,8 +43,6 @@
 
 </div>
 
----
-
 <!-- ======================== ABOUT ======================== -->
 
 ## ◈ `about.exe`
@@ -76,7 +74,6 @@ I believe in learning by building, experimenting, and improving every day.
 
 <img src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif" width="260" alt="Coding Animation"/>
 
-```text
 ╔════════════════════════╗
 ║    DEVELOPER MODE     ║
 ╠════════════════════════╣
@@ -86,7 +83,6 @@ I believe in learning by building, experimenting, and improving every day.
 ║  DSA       LEARNING   ║
 ║  BUILD     ALWAYS     ║
 ╚════════════════════════╝
-````
 
 </td>
 </tr>
@@ -99,7 +95,6 @@ I believe in learning by building, experimenting, and improving every day.
 </div>
 
 ---
-
 <!-- ======================== TECH STACK ======================== -->
 
 ## ◈ `tech_stack`
@@ -140,11 +135,15 @@ I believe in learning by building, experimenting, and improving every day.
 <div align="center">
 
 <a href="https://github.com/AmarjeetKushwaha21/Kishan_Sathi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetKushwaha21&repo=Kishan_Sathi&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/🌾_KISAN_SATHI-AI%20Agriculture-16A34A?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/AmarjeetKushwaha21/GrowthPilot_AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarjeetKushwaha21&repo=GrowthPilot_AI&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/🚀_GROWTHPILOT_AI-AI%20Analytics-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/AmarjeetKushwaha21/Technovation-Club-Clone">
+<img src="https://img.shields.io/badge/💻_TECHNOVATION_CLUB-Web%20Development-06B6D4?style=for-the-badge"/>
 </a>
 
 </div>
@@ -288,16 +287,14 @@ A web development project inspired by a technology club website.
 </div>
 ```
 
-## Important: Enable the Contribution Snake
+### Apply it correctly
 
-The snake animation needs a GitHub Actions workflow. Without it, the image may appear broken.
+1. Open your README repository: [AmarjeetKushwaha21](https://github.com/AmarjeetKushwaha21/AmarjeetKushwaha21)
+2. Click the pencil ✏️.
+3. Press `Ctrl + A`.
+4. Delete everything.
+5. Paste the complete code above.
+6. Click **Commit changes**.
+7. Open your GitHub profile and refresh.
 
-If you want, I can provide the **complete snake animation setup** next.
-
-**After pasting:**
-
-1. Click Commit changes.
-2. Open your profile.
-3. Refresh after a few seconds.
-
-I can also create a **custom portfolio section with live project buttons and a more advanced animated banner**.
+**Note:** The contribution snake image will need a GitHub Actions workflow to generate it. I can set that up next.
