@@ -223,24 +223,6 @@ A web development project inspired by a technology club website.
 </div>
 
 ---
-
-<!-- ======================== LEETCODE ======================== -->
-
-## ◈ `leetcode.exe`
-
-<div align="center">
-
-<a href="https://leetcode.com/u/CSE13_058/">
-<img src="https://img.shields.io/badge/LeetCode-Visit%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-<img src="https://leetcard.jacoblin.cool/CSE13_058?theme=dark&font=baloo&ext=heatmap" width="80%" alt="LeetCode Statistics"/>
-
-</div>
-
----
 <!-- ======================== CONNECT ======================== -->
 
 ## ◈ `connect()`
