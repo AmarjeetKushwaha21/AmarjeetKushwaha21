@@ -241,19 +241,6 @@ A web development project inspired by a technology club website.
 </div>
 
 ---
-
-<!-- ======================== CONTRIBUTIONS ======================== -->
-
-## ◈ `contribution_snake`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AmarjeetKushwaha21/AmarjeetKushwaha21/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
-
-</div>
-
----
-
 <!-- ======================== CONNECT ======================== -->
 
 ## ◈ `connect()`
@@ -286,15 +273,3 @@ A web development project inspired by a technology club website.
 
 </div>
 ```
-
-### Apply it correctly
-
-1. Open your README repository: [AmarjeetKushwaha21](https://github.com/AmarjeetKushwaha21/AmarjeetKushwaha21)
-2. Click the pencil ✏️.
-3. Press `Ctrl + A`.
-4. Delete everything.
-5. Paste the complete code above.
-6. Click **Commit changes**.
-7. Open your GitHub profile and refresh.
-
-**Note:** The contribution snake image will need a GitHub Actions workflow to generate it. I can set that up next.
